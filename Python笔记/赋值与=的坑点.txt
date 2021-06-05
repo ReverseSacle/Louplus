@@ -1,0 +1,28 @@
+''' a,b = b%a,a
+    改写法意思为：
+    a = t
+    b = b%a
+    b = t   '''
+''' b = b%a
+    a = b
+    改写法中 a = b 为 a变量等于b变量，而不是赋值。 '''
+
+
+#例子
+''' def gcd(a, b):
+    while a != 0:
+         a,b = b%a,a
+    return b
+    ==================
+    t = a
+    a = b%a
+    b = t   '''
+''' def gcd(a, b):
+    while a != 0:
+        a = b % a
+        b  = a
+
+    return b
+    =============
+    a = b % a
+    b = a #这是b与a变量相等    '''
