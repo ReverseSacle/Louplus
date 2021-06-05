@@ -1,0 +1,5 @@
+方法：
+
+首先 cat piflow-server-0.9.zip* > piflow-server-0.9.zip    #合并为一个zip包
+
+然后 unzip piflow-server-0.9.zip   #解压zip包
