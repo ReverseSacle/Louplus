@@ -11,6 +11,8 @@ This is a process of accumulating knowledge.
 + [C++基础](https://www.bilibili.com/video/BV1et411b73Z)
 + [C版数据结构和算法](https://www.bilibili.com/video/BV1Ws411T7Qk)
 + [C版数据结构(作者本人版)](https://www.bilibili.com/video/BV1db411Y7Lm)
++ [汇编基础](https://www.bilibili.com/video/BV1zW411n79C?from=search&seid=6168523122965867396)
++ [主机装机教程](https://www.bilibili.com/video/BV1Nh411y7Mu)
 + [计算机视觉入门](https://www.bilibili.com/video/BV1nJ411z7fe?from=search&seid=14771143229630785625)
 + [机器学习(吴恩达)](https://www.bilibili.com/video/BV164411b7dx)
 + [多模态机器学习](https://www.bilibili.com/video/BV1Vh411U7e8)
