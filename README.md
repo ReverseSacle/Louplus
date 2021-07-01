@@ -10,7 +10,7 @@ This is a process of accumulating knowledge.
 + [C语言基础(小甲鱼)](https://www.bilibili.com/video/BV17s411N78s)
 + [C++基础](https://www.bilibili.com/video/BV1et411b73Z)
 + [C版数据结构和算法](https://www.bilibili.com/video/BV1Ws411T7Qk)
-+ [数据结构(作者本人版)](https://www.bilibili.com/video/BV1db411Y7Lm)
++ [C版数据结构(作者本人版)](https://www.bilibili.com/video/BV1db411Y7Lm)
 + [计算机视觉入门](https://www.bilibili.com/video/BV1nJ411z7fe?from=search&seid=14771143229630785625)
 + [机器学习(吴恩达)](https://www.bilibili.com/video/BV164411b7dx)
 + [多模态机器学习](https://www.bilibili.com/video/BV1Vh411U7e8)
