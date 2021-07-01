@@ -7,7 +7,7 @@ This is a process of accumulating knowledge.
 + [Python基础(新版)](https://www.bilibili.com/video/BV1c4411e77t)
 + [Python爬虫篇](https://www.bilibili.com/video/BV1wp411o7dz)
 + [C语言基础](https://www.bilibili.com/video/BV1YJ411N7D2)
-+ [c语言基础(小甲鱼)](https://www.bilibili.com/video/BV17s411N78s)
++ [C语言基础(小甲鱼)](https://www.bilibili.com/video/BV17s411N78s)
 + [C++基础](https://www.bilibili.com/video/BV1et411b73Z)
 + [C版数据结构和算法](https://www.bilibili.com/video/BV1Ws411T7Qk)
 + [数据结构(作者本人版)](https://www.bilibili.com/video/BV1db411Y7Lm)
